@@ -1,0 +1,114 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Bestseller" },
+        "duration": "5 months",
+        "chapter": "20",
+        "lecture": "120",
+        "title": "Web Design",
+        "instructor": {
+          "name": "Jimmy Dane",
+          "title": "Senior Web Designer , Bite Orange Ltd",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/D74VrRM/web-design.jpg",
+        "details": "Web designers plan, create and code internet sites and web pages, many of which combine text with sounds, pictures, graphics and video clips. A web designer is responsible for creating the design and layout of a website or web pages. It and can mean working on a brand new website or updating an already existing site To excel as a Web Designer, a candidate must fulfill a number of important duties and responsibilities. They need to work closely with each customer so they can translate the customer’s thoughts into a visually appealing design. They are also responsible for turning that design into a functional site and uploading it to a web server. Other responsibilities include:."
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11",
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Bestseller" },
+        "duration": "6 months",
+        "chapter": "21",
+        "lecture": "120",
+        "title": "Front-End-Development",
+        "instructor": {
+          "name": "Jimmy Dane",
+          "title": "Full Stack Developer , Bite Orange Ltd",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/fGt8H99/front-end.jpghttps://i.ibb.co/fGt8H99/front-end.jpg",
+        "details": "Front-end developers build the interface that users see and interact with. They create websites in HTML, CSS, and JavaScript so people can access a site or application through their browser controlsA good Front-End Web Developer will have an understanding of the web development process from inception to deployment. They will also have a good understanding of industry trends and the newest software programs and languages. In addition to the technical skills, they need to have excellent problem-solving skills and flexibility due to the changing technologies."
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11ghkg",
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Bestseller" },
+        "duration": "6 months",
+        "chapter": "22",
+        "lecture": "125",
+        "title": "Learn Advanced C++",
+        "instructor": {
+          "name": "Smith Dane",
+          "title": "Senior Programmer , Healing soft Ltd",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://mblogthumb-phinf.pstatic.net/MjAxOTA3MzFfMTc3/MDAxNTY0NTc3MjU5MDQ1.6WztJGxqUpPfFUsYumJluaGUeKHlWPXnoK7YTsxMO9wg.9iSO66BIUSyUBw2OlYa31naU8P8jUOe_IUEowZDda1og.JPEG.sooftware/1522635669452_11.jpg?type=w800",
+        "details": "C++ (said C plus plus) is an object-oriented computer language created by notable computer scientist Bjorne Stroustrop as part of the evolution of the C family of languages. It was developed as a cross-platform improvement of C to provide developers with a higher degree of control over memory and system resources. Some call C++ “C with classes” because it introduces object-oriented programming principles, including the use of defined classes, to the C programming language framework. Over time, C++ has remained a very useful language not only in computer programming itself, but in teaching new programmers about how object-oriented programming works. However, it does not support only object-oriented, but also procedural and functional. Thanks to its high flexibility and scalability, C++ can be used to develop a broad range of software, applications, browsers, Graphical User Interfaces (GUIs), operating systems, and games."
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11ghkg12",
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Bestseller" },
+        "duration": "6 months",
+        "chapter": "22",
+        "lecture": "125",
+        "title": "Learn Python",
+        "instructor": {
+          "name": "Mc Peterson",
+          "title": "Senior Programmer , Apple Bite soft Ltd",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/Wfsh49x/python-training-course-1591771924-5473365.jpg",
+        "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn’t specialized for any specific problems. This versatility, along with its beginner-friendliness, has made it one of the most-used programming languages today. A survey conducted by industry analyst firm RedMonk found that it was the second-most popular programming language among developers in 2021. Writing programs is a very creative and rewarding activity,” says University of Michigan and Coursera instructor Charles R Severance in his book Python for Everybody. “You can write programs for many reasons, ranging from making your living to solving a difficult data analysis problem to having fun to helping someone else solve a problem"
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11ghkg124h",
+        "category_id": "03",
+        "rating": { "number": 4.5, "badge": "Bestseller" },
+        "duration": "6 months",
+        "chapter": "25",
+        "lecture": "125",
+        "title": "Full Stack Software Development",
+        "instructor": {
+          "name": "Haris Sulaiman",
+          "title": "Senior Software Engineer , Apple Bite soft Ltd",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/gjsQw7Y/software-dev.jpg",
+        "details": "This Professional Certificate will equip you with all the key skills and technical know-how to kickstart your career as a Full-Stack Cloud Native Application Developer. Guided by experts at IBM, you will learn to build your own cloud-based applications and practice working with the technologies behind them. This program consists of ample instructional content as well as hands-on exercises and projects designed to hone your skills and help you build your portfolio.No prior programming experience or Cloud background is required. You'll skill up with the tools and technologies that successful software developers use to build, deploy, test, run, and manage Full Stack Cloud Native applications, giving you the practical skills to begin a new career in a highly in-demand area.The courses in this program will help you develop skill sets in a variety of technologies including: Cloud foundations, HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native practices, DevOps, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio, Python programming, Databases, SQL, NoSQL, Django ORM, Bootstrap, Application Security, Microservices, Serverless computing, and more."
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11ghkg45l",
+        "category_id": "04",
+        "rating": { "number": 4.5, "badge": "Bestseller" },
+        "duration": "6 months",
+        "chapter": "20",
+        "lecture": "120",
+        "title": "Oracle Database Adminstration",
+        "instructor": {
+          "name": "Kay Macolm",
+          "title": "Senior Software Engineer , Oracle Corporation",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/CVMnVqK/oracle.jpg",
+        "details": "Oracle offers integrated suites of applications, plus secure, autonomous infrastructure in Oracle Cloud. Oracle Cloud Infrastructure (OCI) is the next-generation cloud designed to run any application, faster and more securely, for less. OCI is a complete cloud infrastructure platform for every workload, with all the services needed to migrate, build, and run all of your IT, from existing enterprise workloads to new cloud native applications and data platforms. Oracle University is a leader in cloud education, providing modern learning solutions across Oracle’s entire product portfolio that enable our customers to master their Oracle Cloud solutions and maximize their investments. Oracle University and Coursera have partnered to increase accessibility of cloud skills training to help individuals and enterprises gain cloud expertise by offering four OCI courses and one Oracle Autonomous Database course for free. To learn more about OCI, visit https://www.oracle.com/cloud"
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11ghkg45l",
+        "category_id": "06",
+        "rating": { "number": 4.5, "badge": "Bestseller" },
+        "duration": "6 months",
+        "chapter": "20",
+        "lecture": "115",
+        "title": "Learn Spoken English",
+        "instructor": {
+          "name": "ATM Saifurs",
+          "title": "BCS Education ,Du",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/6vCSXwQ/1.jpg",
+        "details": "This course is designed for non-native English speakers who are interested in advancing their careers in the global marketplace.  In this course, you will learn about the job search, application, and interview process in the United States, while comparing and contrasting the same process in your home country. This course will also give you the opportunity to explore your global career path, while building your vocabulary and improving your language skills to achieve your professional goals. The first unit in this course will introduce the U.S. job application process and provide strategies for identifying the jobs that match your interests and skills. Unit 2 will take you through the steps necessary to produce a professional-looking resume. In unit 3, you will work to develop a clear and concise cover letter. The final unit of the course focuses on networking and interview skills."
+      }
+]
